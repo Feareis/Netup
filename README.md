@@ -1,5 +1,5 @@
 <h3 align="center">
-        <samp>&gt; Week Code <b>#1 - Cybersec</b>
+        <samp>&gt; Cyber month <b>#1 - Cybersec</b>
         </samp>
 </h3>
 
@@ -7,7 +7,7 @@
 <p align="center">
   <samp>
     <br>
-    「 This week, based on the theme of <b><a href="https://www.cisco.com/c/fr_fr/products/security/what-is-cybersecurity.html">Cybersecurity</a></b>, here are 3 mini projects I've been working on over the past week 3 」
+    「 This month, based on the theme of <b><a href="https://www.cisco.com/c/fr_fr/products/security/what-is-cybersecurity.html">Cybersecurity</a></b>, here are 3 mini projects I've been working on over the month 」
     <br>
     <br>
   </samp>
