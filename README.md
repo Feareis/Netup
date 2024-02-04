@@ -7,7 +7,7 @@
 <p align="center">
   <samp>
     <br>
-    「 This month, based on the theme of <b><a href="https://www.cisco.com/c/fr_fr/products/security/what-is-cybersecurity.html">Cybersecurity</a></b>, here are 3 mini projects I've been working on over the month 」
+    「 This month, based on the theme of <b><a href="https://www.cisco.com/c/fr_fr/products/security/what-is-cybersecurity.html">Cybersecurity</a></b>, there are differents mini projects in a main file I've been working on over the month 」
     <br>
     <br>
   </samp>
